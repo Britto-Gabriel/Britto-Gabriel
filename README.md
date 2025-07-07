@@ -66,5 +66,5 @@ Caso queira trocar uma ideia, colaborar em algum projeto ou apenas conversar, es
 ## Portfólio
 
 Acesse meu portfólio online:
-[https://britto-gabriel.github.io](https://britto-gabriel.github.io)
+https://gsantosb.wordpress.com/
 
