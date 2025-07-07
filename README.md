@@ -1,4 +1,4 @@
-# Gabriel Brito
+# Gabriel Santos Brito
 
 Sou desenvolvedor com foco em JavaScript, React, HTML, CSS e Python. Tenho interesse em resolver problemas de forma prática e criativa, usando a tecnologia como meio para gerar valor real.
 
